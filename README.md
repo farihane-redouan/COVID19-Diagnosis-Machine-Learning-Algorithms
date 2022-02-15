@@ -1,2 +1,2 @@
-# AI-AND-COVID-19
-Système de Prise de Décision Intelligent dans les Cliniques Covid-19.
+# COVID19-Diagnosis-Machine-Learning-Algorithms
+Intelligent decision system in Covid-19 clinics.
